@@ -1,0 +1,46 @@
+#wrapper-section1 {
+    width: 100%;
+    text-align: center;
+}
+
+.img-profile {
+    width: 155%;
+    margin: 30px auto;
+    margin-left: -30%;
+}
+
+.wrapper-first {
+    background-image: url(background3.png);
+    background-size: cover;
+    margin: auto;
+    padding: 8%;
+    text-align: center;
+}
+
+.h1-text {
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: 100px;
+    /* margin-left: -20px;*/
+    /*width: auto;*/
+    font-family: 'Roboto Condensed';
+    font-size: 20px;
+    color: #f1d7ff;
+}
+
+.card {
+    width: 100%;
+    padding: 5%;
+    /*border-bottom: 3px solid #000;*/
+}
+
+.ptext-card {
+    margin-top: 30px;
+    padding: 5%;
+    font-family: 'Roboto Condensed';
+    font-size: 18px;
+    width: 100%;
+    color: #f1d7ff;
+    letter-spacing: 2px;
+    text-align: justify;
+}

@@ -1,0 +1,36 @@
+.footer {
+    height: 50px;
+    width: 100%;
+    background: black;
+    display: flex;
+    justify-content: space-around;
+    border-top: 5px solid #734a91;
+    padding: 3%;
+}
+
+.icons-footer {
+    width: 20px;
+    cursor: pointer;
+    transition: 0.7s;
+}
+
+.contato-creditos {
+    color: #dcdcdc;
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-size: 12px;
+    text-shadow: 2px 4px 5px black;
+}
+
+.links1,
+.links2 {
+    height: 40px;
+    width: 40px;
+    background-size: cover;
+    cursor: pointer;
+    transition: 0.7s;
+}
+
+.icons-footer:hover {
+    transform: rotate(-360deg);
+}
